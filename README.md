@@ -2,12 +2,13 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-- [Active Directory Home Lab]
 
 - [Security Automation w/ Python](https://github.com/cyberanthony/Automation-of-Security-Tasks/tree/main)
 
+- [Network Traffic Analysis w/ Wireshark (Not Finished)]
+
 <h2> A.I. Assitant </h2>
-- [Personal A.I. Assitant]
+- [Personal A.I. Assitant(Not Finished)]
 
 <h2> 🤳 Connect with me:</h2>
 
